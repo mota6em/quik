@@ -1,0 +1,19 @@
+.main-page{
+    /* margin-top: 2.5rem; */
+}.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+.about-item {
+    margin: 20px 0;
+    padding: 10px;
+    border-left: 5px solid #007BFF;
+    background-color: #f9f9f9;
+}
